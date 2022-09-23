@@ -23,7 +23,7 @@ class App extends React.Component {
 
 const Home = () => (
   <div>
-    <h2>Welcome</h2>
+    <h2>👋 Hello there!</h2>
   </div>
 );
 
